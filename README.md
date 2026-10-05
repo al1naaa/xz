@@ -1,1 +1,1 @@
-# xz
+# norm nazvaniye
